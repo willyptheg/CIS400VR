@@ -1,7 +1,10 @@
 {
   "dependencies": {
+<<<<<<< HEAD
     "com.unity.multiplayer.center": "1.0.0",
     "com.unity.modules.accessibility": "1.0.0",
+=======
+>>>>>>> b8354c220a49863e5da30fb9ad4324d0d1aae7d3
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
     "com.unity.modules.animation": "1.0.0",

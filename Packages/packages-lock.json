@@ -1,5 +1,6 @@
 {
   "dependencies": {
+<<<<<<< HEAD
     "com.unity.multiplayer.center": {
       "version": "1.0.0",
       "depth": 0,
@@ -14,6 +15,8 @@
       "source": "builtin",
       "dependencies": {}
     },
+=======
+>>>>>>> b8354c220a49863e5da30fb9ad4324d0d1aae7d3
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
@@ -61,12 +64,15 @@
         "com.unity.modules.animation": "1.0.0"
       }
     },
+<<<<<<< HEAD
     "com.unity.modules.hierarchycore": {
       "version": "1.0.0",
       "depth": 1,
       "source": "builtin",
       "dependencies": {}
     },
+=======
+>>>>>>> b8354c220a49863e5da30fb9ad4324d0d1aae7d3
     "com.unity.modules.imageconversion": {
       "version": "1.0.0",
       "depth": 0,
@@ -155,8 +161,12 @@
       "dependencies": {
         "com.unity.modules.ui": "1.0.0",
         "com.unity.modules.imgui": "1.0.0",
+<<<<<<< HEAD
         "com.unity.modules.jsonserialize": "1.0.0",
         "com.unity.modules.hierarchycore": "1.0.0"
+=======
+        "com.unity.modules.jsonserialize": "1.0.0"
+>>>>>>> b8354c220a49863e5da30fb9ad4324d0d1aae7d3
       }
     },
     "com.unity.modules.umbra": {

@@ -12,7 +12,10 @@ VFXManager:
   m_FixedTimeStep: 0.016666668
   m_MaxDeltaTime: 0.05
   m_MaxScrubTime: 30
+<<<<<<< HEAD
   m_MaxCapacity: 100000000
+=======
+>>>>>>> b8354c220a49863e5da30fb9ad4324d0d1aae7d3
   m_CompiledVersion: 0
   m_RuntimeVersion: 0
   m_RuntimeResources: {fileID: 0}

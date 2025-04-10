@@ -24,4 +24,7 @@ EditorUserSettings:
   m_VCAllowAsyncUpdate: 1
   m_VCScanLocalPackagesOnConnect: 1
   m_ArtifactGarbageCollection: 1
+<<<<<<< HEAD
   m_CompressAssetsOnImport: 1
+=======
+>>>>>>> b8354c220a49863e5da30fb9ad4324d0d1aae7d3

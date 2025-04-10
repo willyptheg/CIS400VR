@@ -6,7 +6,11 @@ QualitySettings:
   serializedVersion: 5
   m_CurrentQuality: 5
   m_QualitySettings:
+<<<<<<< HEAD
   - serializedVersion: 4
+=======
+  - serializedVersion: 3
+>>>>>>> b8354c220a49863e5da30fb9ad4324d0d1aae7d3
     name: Very Low
     pixelLightCount: 0
     shadows: 0
@@ -28,11 +32,16 @@ QualitySettings:
     realtimeReflectionProbes: 0
     billboardsFaceCameraPosition: 0
     useLegacyDetailDistribution: 0
+<<<<<<< HEAD
     adaptiveVsync: 0
     vSyncCount: 0
     realtimeGICPUUsage: 25
     adaptiveVsyncExtraA: 0
     adaptiveVsyncExtraB: 0
+=======
+    vSyncCount: 0
+    realtimeGICPUUsage: 25
+>>>>>>> b8354c220a49863e5da30fb9ad4324d0d1aae7d3
     lodBias: 0.3
     maximumLODLevel: 0
     enableLODCrossFade: 1
@@ -58,7 +67,11 @@ QualitySettings:
     terrainFadeLength: 5
     terrainMaxTrees: 50
     excludedTargetPlatforms: []
+<<<<<<< HEAD
   - serializedVersion: 4
+=======
+  - serializedVersion: 3
+>>>>>>> b8354c220a49863e5da30fb9ad4324d0d1aae7d3
     name: Low
     pixelLightCount: 0
     shadows: 0
@@ -80,11 +93,16 @@ QualitySettings:
     realtimeReflectionProbes: 0
     billboardsFaceCameraPosition: 0
     useLegacyDetailDistribution: 0
+<<<<<<< HEAD
     adaptiveVsync: 0
     vSyncCount: 0
     realtimeGICPUUsage: 25
     adaptiveVsyncExtraA: 0
     adaptiveVsyncExtraB: 0
+=======
+    vSyncCount: 0
+    realtimeGICPUUsage: 25
+>>>>>>> b8354c220a49863e5da30fb9ad4324d0d1aae7d3
     lodBias: 0.4
     maximumLODLevel: 0
     enableLODCrossFade: 1
@@ -110,7 +128,11 @@ QualitySettings:
     terrainFadeLength: 5
     terrainMaxTrees: 50
     excludedTargetPlatforms: []
+<<<<<<< HEAD
   - serializedVersion: 4
+=======
+  - serializedVersion: 3
+>>>>>>> b8354c220a49863e5da30fb9ad4324d0d1aae7d3
     name: Medium
     pixelLightCount: 1
     shadows: 1
@@ -132,11 +154,16 @@ QualitySettings:
     realtimeReflectionProbes: 0
     billboardsFaceCameraPosition: 0
     useLegacyDetailDistribution: 0
+<<<<<<< HEAD
     adaptiveVsync: 0
     vSyncCount: 1
     realtimeGICPUUsage: 25
     adaptiveVsyncExtraA: 0
     adaptiveVsyncExtraB: 0
+=======
+    vSyncCount: 1
+    realtimeGICPUUsage: 25
+>>>>>>> b8354c220a49863e5da30fb9ad4324d0d1aae7d3
     lodBias: 0.7
     maximumLODLevel: 0
     enableLODCrossFade: 1
@@ -162,7 +189,11 @@ QualitySettings:
     terrainFadeLength: 5
     terrainMaxTrees: 50
     excludedTargetPlatforms: []
+<<<<<<< HEAD
   - serializedVersion: 4
+=======
+  - serializedVersion: 3
+>>>>>>> b8354c220a49863e5da30fb9ad4324d0d1aae7d3
     name: High
     pixelLightCount: 2
     shadows: 2
@@ -184,11 +215,16 @@ QualitySettings:
     realtimeReflectionProbes: 1
     billboardsFaceCameraPosition: 1
     useLegacyDetailDistribution: 0
+<<<<<<< HEAD
     adaptiveVsync: 0
     vSyncCount: 1
     realtimeGICPUUsage: 50
     adaptiveVsyncExtraA: 0
     adaptiveVsyncExtraB: 0
+=======
+    vSyncCount: 1
+    realtimeGICPUUsage: 50
+>>>>>>> b8354c220a49863e5da30fb9ad4324d0d1aae7d3
     lodBias: 1
     maximumLODLevel: 0
     enableLODCrossFade: 1
@@ -214,7 +250,11 @@ QualitySettings:
     terrainFadeLength: 5
     terrainMaxTrees: 50
     excludedTargetPlatforms: []
+<<<<<<< HEAD
   - serializedVersion: 4
+=======
+  - serializedVersion: 3
+>>>>>>> b8354c220a49863e5da30fb9ad4324d0d1aae7d3
     name: Very High
     pixelLightCount: 3
     shadows: 2
@@ -236,11 +276,16 @@ QualitySettings:
     realtimeReflectionProbes: 1
     billboardsFaceCameraPosition: 1
     useLegacyDetailDistribution: 0
+<<<<<<< HEAD
     adaptiveVsync: 0
     vSyncCount: 1
     realtimeGICPUUsage: 50
     adaptiveVsyncExtraA: 0
     adaptiveVsyncExtraB: 0
+=======
+    vSyncCount: 1
+    realtimeGICPUUsage: 50
+>>>>>>> b8354c220a49863e5da30fb9ad4324d0d1aae7d3
     lodBias: 1.5
     maximumLODLevel: 0
     enableLODCrossFade: 1
@@ -266,7 +311,11 @@ QualitySettings:
     terrainFadeLength: 5
     terrainMaxTrees: 50
     excludedTargetPlatforms: []
+<<<<<<< HEAD
   - serializedVersion: 4
+=======
+  - serializedVersion: 3
+>>>>>>> b8354c220a49863e5da30fb9ad4324d0d1aae7d3
     name: Ultra
     pixelLightCount: 4
     shadows: 2
@@ -288,11 +337,16 @@ QualitySettings:
     realtimeReflectionProbes: 1
     billboardsFaceCameraPosition: 1
     useLegacyDetailDistribution: 0
+<<<<<<< HEAD
     adaptiveVsync: 0
     vSyncCount: 1
     realtimeGICPUUsage: 100
     adaptiveVsyncExtraA: 0
     adaptiveVsyncExtraB: 0
+=======
+    vSyncCount: 1
+    realtimeGICPUUsage: 100
+>>>>>>> b8354c220a49863e5da30fb9ad4324d0d1aae7d3
     lodBias: 2
     maximumLODLevel: 0
     enableLODCrossFade: 1
@@ -329,8 +383,13 @@ QualitySettings:
     PS4: 5
     PS5: 5
     QNX: 5
+<<<<<<< HEAD
     ReservedCFE: 5
     Server: 5
+=======
+    Server: 5
+    Stadia: 5
+>>>>>>> b8354c220a49863e5da30fb9ad4324d0d1aae7d3
     Standalone: 5
     VisionOS: 5
     WebGL: 3

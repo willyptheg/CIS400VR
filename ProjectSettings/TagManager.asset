@@ -2,7 +2,11 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
+<<<<<<< HEAD
   serializedVersion: 3
+=======
+  serializedVersion: 2
+>>>>>>> b8354c220a49863e5da30fb9ad4324d0d1aae7d3
   tags: []
   layers:
   - Default
@@ -41,5 +45,8 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+<<<<<<< HEAD
   m_RenderingLayers:
   - Default
+=======
+>>>>>>> b8354c220a49863e5da30fb9ad4324d0d1aae7d3
